@@ -163,7 +163,7 @@ class QuestionActivity : AppCompatActivity() {
         setOptionsEnabled(true)
         btnNext.isEnabled = false
 
-        btnNext.text = if (index == questions.size - 1) "Terminar" else "Siguiente"
+        btnNext.text = if (index == questions.size - 1) "Bukatu" else "Hurrengoa"
         updateScoreText()
     }
 
@@ -222,12 +222,12 @@ class QuestionActivity : AppCompatActivity() {
     }
 
     private fun updateScoreText() {
-        tvScore.text = "Puntuación: $score / ${questions.size}"
+        tvScore.text = "Puntuazioa: $score / ${questions.size}"
     }
 
     private fun showResult() {
 
-        Toast.makeText(this, "Completado. Puntuación final: $score/${questions.size}", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Puntuazioa: $score/${questions.size}", Toast.LENGTH_LONG).show()
         val intent = Intent(this, MainActivity::class.java)
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_SINGLE_TOP)
         startActivity(intent)
