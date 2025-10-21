@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "question": "Zein da Espainiako hiriburua?",
+    "options": ["Bartzelona", "Madril", "Valentzia", "Sevilla"],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Zein da munduko herrialderik txikiena?",
+    "options": ["Monako", "San Marino", "Vatikano Hiria", "Andorra"],
+    "correctIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "Zein da programazio hizkuntza bat?",
+    "options": ["HTML", "Kotlin", "CSS", "Photoshop"],
+    "correctIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "Zein youtuber espainiar da ezaguna Vegetta777 izenarekin?",
+    "options": ["Samuel", "Raul", "Ruben", "Guillermo"],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "question": "Zein GTA V pertsonai da ezaguna lapurretak pentsatzeagatik?",
+    "options": ["Ohian Gomez", "Lester", "Mario", "Miguel"],
+    "correctIndex": 0
+  },
+  {
+    "id": 6,
+    "question": "Espainiako zein tokitan da ordu bat gutxiago?",
+    "options": ["Madril", "Gibraltar", "Cuenca", "Kanariak"],
+    "correctIndex": 3
+  },
+  {
+    "id": 7,
+    "question": "Zein kirolari ospetsuk oihukatzen zuen 'SIUUUUUU' ospakizun gisa?",
+    "options": ["Messi", "Josu", "Alexia Putellas", "CR7"],
+    "correctIndex": 3
+  },
+  {
+    "id": 8,
+    "question": "Nola du izena Spidermanen emazteak?",
+    "options": ["Lia Sikora", "MJ", "Gwen Stacy", "Letizia"],
+    "correctIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Osatu esaldia: 'Nola euria egiten du ________'",
+    "options": ["Errealean", "Donostian", "Donostian", "Madrilen"],
+    "correctIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "Nola jarraitzen du igel ezagunaren txistak: 'Que le dice una rana a otra...'?",
+    "options": ["SALE TOTI", "Que pasa bala", "Que quesito", "EYY MUY BUENAS A TODOS"],
+    "correctIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Zein hirutan daude Espainiako emakume ederrenak 'Corazón' aldizkariaren arabera?",
+    "options": ["Kanariak", "Kordoba", "Donostia", "Leon"],
+    "correctIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Zein Espainiako taldek irabazi du Champions League gehien?",
+    "options": ["Erreal Sociedad", "Real Oviedo", "Real Madril", "Real Murcia"],
+    "correctIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "Zein izan da historiako joko salduena?",
+    "options": ["Minecraft", "Tetris", "GTA V", "Fortnite"],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "question": "Zein pertsonaia da Marioren antagonista?",
+    "options": ["Bowser", "Luigi", "Unai Carnes", "Wario"],
+    "correctIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "Zein da begi urdineko jendearen portzentajea?",
+    "options": ["%2", "%5", "%9", "%13"],
+    "correctIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "Zein genero da nagusi munduan?",
+    "options": ["Bat ere ez", "Gizonak", "Emakumeak", "Berdin"],
+    "correctIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "Zein da daltonismo ohikoena?",
+    "options": ["Deuteranomalia", "Protanomalia", "Protanopia", "Deuteranopia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "Zein youtuber espainiar da castor bat kontsideratua?",
+    "options": ["Dalas", "Pereira", "Guanyar", "Misho"],
+    "correctIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "Zein da ordenagailu osoa elkartzen duen osagaia?",
+    "options": ["Torrea", "Prozesagailua", "Txartel Grafikoa", "Plaka Nagusia"],
+    "correctIndex": 3
+  },
+  {
+    "id": 20,
+    "question": "Nork da ezaguna '33' saiatzeagatik?",
+    "options": ["El nano", "Melendi", "Danel", "Max Verstappen"],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "question": "Zein da gehienezko errondak Valorant partida batean?",
+    "options": ["13", "20", "Mugarik gabe", "15"],
+    "correctIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "Nola du izena 'The Simpsons' telesaileko taberna?",
+    "options": ["Moe's", "Krusty's", "Bar Nuclear", "El Árbol Seco"],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "Zein da munduko mendirik altuena?",
+    "options": ["K2", "Everest", "Kilimanjaro", "Matterhorn"],
+    "correctIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "Zein da 'Counter-Strike' jokoaren mapa ospetsuena?",
+    "options": ["Dust II", "Inferno", "Mirage", "Nuke"],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "question": "Zein da 'League of Legends' jokoan partida bat irabazteko eraikin nagusia?",
+    "options": ["Torreak", "Nexoa", "Inhibidorea", "Dragon"],
+    "correctIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Zein da 'Friends' telesaileko pertsonaia garbitzailea?",
+    "options": ["Rachel", "Monica", "Phoebe", "Ross"],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "Zein da 'Call of Duty' bideojoko-sagaren garatzaile nagusia?",
+    "options": ["Ubisoft", "Activision", "EA Sports", "Rockstar"],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "Zein da 'Star Wars' sagako planeta arido eta beroena?",
+    "options": ["Hoth", "Endor", "Tatooine", "Coruscant"],
+    "correctIndex": 2
+  },
+  {
+    "id": 29,
+    "question": "Zein da 'Pokémon' frankiziako hasierako hiru Pokémonetako bat?",
+    "options": ["Pikachu", "Bulbasaur", "Meowth", "Jigglypuff"],
+    "correctIndex": 1
+  }
+]
